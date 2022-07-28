@@ -1,0 +1,55 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.whitebox {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width:350px ;
+    height: 500px;
+    border-radius: 15px;
+    margin: auto;
+    position: relative;
+    top:110px;
+}
+
+
+
+.img {
+    margin: auto;
+    position: relative;
+    bottom:370px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+
+}
+
+.word {
+    color: #191970;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom:350px;
+    font-weight: bolder;
+    font-size: 23px;
+    font-family: 'Mingzat', sans-serif;
+    text-align: center;
+
+
+}
+
+.word1 {
+    color: #191970;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom:330px;
+    font-size: 14px;
+    font-family: 'Mingzat', sans-serif;
+    text-align: center;
+    
+
+
+}
